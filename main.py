@@ -1,7 +1,7 @@
 # import telebot
 # import requests
 
-# API_KEY = "5646058894:AAH1lLjPSjwVAExYevOOipSv9pHyR7I66_c"
+# API_KEY = "5646xxxxxxxxxx:AAH1lLxxxxxxxxxxxxxxxxxxxxxR7I66_c"
 # bot = telebot.TeleBot(API_KEY)
 # @bot.message_handler(commands=['start'])
 # def start(message):
@@ -38,7 +38,7 @@ from telegram.ext import Updater, Filters
 import telebot
 
 
-API_KEY="5646058894:AAH1lLjPSjwVAExYevOOipSv9pHyR7I66_c"
+API_KEY="5646xxxxxxxxxx:AAH1lLxxxxxxxxxxxxxxxxxxxxxR7966_c"
 bot = telebot.TeleBot(API_KEY)
 
 
