@@ -8,9 +8,6 @@
 #     bot.send_photo(message.chat.id, photo=open('welcome.png', 'rb'))
 #     bot.reply_to(message,  f"Hello! {message.from_user.first_name} {message.from_user.last_name}, how may I help you?, ")
 
-# @bot.message_handler(commands=['bus'])
-# def bus(message):
-#     bot.reply_to(message,"https://drive.google.com/file/d/1VeLSaIZKLWMT3Y4oPQEEZBy5zPQ9axDW/view?usp=sharing")
 
 # @bot.message_handler(commands=['search'])
 # def search(message):
